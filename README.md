@@ -1,3 +1,11 @@
+# Welcome
+
+Welcome to my humble page.
+
+What you are about to experience is commonly known as pure internet bliss.
+
+Please strap your seat belts, and maintain arms and legs inside the ride at all times. No flash photography allowed.
+
 # LandingPage
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
