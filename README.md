@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to my humble page.
+:sparkles: Welcome to my humble page. :sparkles:
 
 What you are about to experience is commonly known as pure internet bliss.
 
